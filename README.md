@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IanJayPondevida
 - 👀 I’m interested in Programming and problem solving regarding codes.
-- 🌱 I’m currently learning Java and looking forward to learn more.
+- 🌱 I’m currently learning Web Development and Machine Learning related projects. I'm looking forward to explore and learn more.
 - 💞️ I’m looking to collaborate on different problems will occur within the organization.
 - 📫 How to reach me? Email me at ianjaypondevida10@gmail.com
 
